@@ -1,0 +1,17 @@
+{
+  "name": "jsgraphdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  }
+}
